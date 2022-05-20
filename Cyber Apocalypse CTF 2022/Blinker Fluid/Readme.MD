@@ -65,6 +65,10 @@ I had numerous issues when trying to get the payload to run;
 
 <img src= "./blinker fluid new invoice with payload.png">
 
-The white space at the start seemed to be sanitized for code after new line or multiple but if you did not leave a white space Then
+The white space at the start seemed to be sanitized for code after new line or multiple but if you did not leave a white space .......
+
 
 <img src= "./blinker fluid flag.png">
+
+WE GOT THE FLAG!!!! 
+Challenge complete!!
