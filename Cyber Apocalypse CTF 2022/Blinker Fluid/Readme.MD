@@ -18,7 +18,7 @@ I then started to dig around and see what interesting things i could find;
 
 I saw the page would complete the invoice no matter how i edited the text given to us;
 
-No matter if i deleted all the data the invoice would compile;
+Even if i deleted all the data the invoice would compile;
 
 I injected various xss payloads but then realised this was being sanitised fully for all of these kinds of attacks;
 
