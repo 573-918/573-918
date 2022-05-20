@@ -20,7 +20,11 @@ I saw the page would complete the invoice no matter how i edited the text given 
 
 Even if i deleted all the data the invoice would compile;
 
-I injected various xss payloads but then realised this was being sanitised fully for all of these kinds of attacks;
+I injected various xss payloads but then realised this was being unsuccessful with any of these kinds of attacks;
+
+On the app there was not a bot or admin for blind xss;
+
+There wasnt any cookies or sessions being created so nothing to capture information wise here;
 
 So I went back to the start and saw that we had downloadable content for this challenge;
 
