@@ -2,7 +2,7 @@ Blinker Fluid
 
 I first started the docker container;
 
-<img src= "./screeenshots/blinker fluid start.png">
+<img src= "./blinker fluid start.png">
 
 Once started I then copied the address in to the web browsers address bar;
 
