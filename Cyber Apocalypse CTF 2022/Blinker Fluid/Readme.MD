@@ -51,7 +51,6 @@ While reading the example I saw that I would have to manipulate the code to do w
 I also saw another example of the code i could utilise for my payload;
 
 <img src= "./github code.png">
-<img src= "./github code 2.png">
 
 I now had a new problem as i would be creating my own payload and have to get it to exploit the target; 
 Finding the cve details and reading them are one thing but to understand it and be able to 
