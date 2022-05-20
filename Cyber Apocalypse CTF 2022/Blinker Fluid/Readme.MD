@@ -53,10 +53,14 @@ I also saw another example of the code i could utilise for my payload;
 <img src= "./github code.png">
 
 I now had a new problem as i would be creating my own payload and have to get it to exploit the target; 
+
 Finding the cve details and reading them are one thing but to understand it and be able to 
 emulate the attack on to a different server can sometimes more difficult than it seems;
+
 When I did fially get to the understanding of why i could run an exploit like this on this software I was ok;
+
 I combined the two payloads pictured above and came up with the one pictured below;
+
 I had numerous issues when trying to get the payload to run;
 
 <img src= "./blinker fluid new invoice with payload.png">
