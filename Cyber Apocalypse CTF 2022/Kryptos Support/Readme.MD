@@ -134,4 +134,4 @@ And there we have it!!
 
 The flag is ready to be submitted!!
 
-Well done if you are able to follow my walk through for this chalenge;
+Well done if you are able to follow my walk through for this challenge;
