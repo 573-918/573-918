@@ -6,7 +6,9 @@ I tried to connect to this challenge using a web browser;
 
 This wasnt unsuccessful but returned errors;
 
-The errors returned gave me the understanding that i needed to connect using a different method;
+The errors returned gave me an understanding of why this would not connect;
+
+I knew now that I needed to connect using a different method;
 
 I used my knowledge base;
 
@@ -28,9 +30,9 @@ I poked around using the different actions available;
 
 I could see that I had access to the CAT action;
 
-I know this reads the contents of afile;
+I know this reads the contents of a file;
 
-I also know that inside linux file systems we have a way of escaping such actions;
+I also know that inside Linux File Systems we have a way of escaping such actions;
 
 With this I know that I can use this action with an escape;
 
