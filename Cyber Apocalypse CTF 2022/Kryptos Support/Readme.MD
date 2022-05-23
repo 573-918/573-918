@@ -13,9 +13,10 @@ I visit the page to see what it is and what it does;
 <img src= "./kryptos login.png">
 
 Here we have a field for credentials to be filled out for logging in;
-I dont have anything to fill out here and i am not allowed to brute force my way in :) ;
+I dont have anything to fill out here
+Alos I am not allowed to brute force my way in :) ;
 
-I head backto the previous page to see what this is actually doing;
+I head back to the previous page to see what this is actually doing;
 My thinking was 'this challenge is supposed to be an easy one'; 
 So i go back to the start of the application;
 I see that the page sends the input field to somewhere that gets some action afterwards;
