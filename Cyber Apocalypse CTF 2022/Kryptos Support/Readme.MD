@@ -23,7 +23,7 @@ I poked around in various ways to no avail;
 I then remembered BLIND-XSS;
 This is an attack that can and will fire when triggered from the "BACKEND";
 
-<img src= "./xsshunter payload page.png.png">
+<img src= "./xsshunter payload page.png">
 
 Here we have examples of different Blind-XSS payloads;
 I then used the basic payload;
